@@ -1,0 +1,1 @@
+This is zuri mini project in java script
